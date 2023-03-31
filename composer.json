@@ -1,7 +1,7 @@
 {
     "name": "nguyenanhung/monitor",
     "type": "library",
-    "description": "Monitor Connector",
+    "description": "PHP Plugins: Send Monitor Message to Monitor Service",
     "keywords": [
         "php",
         "monitor",
@@ -20,12 +20,17 @@
         }
     ],
     "require": {
+        "php": "^7.0 || ^8.0",
         "ext-curl": "*",
         "ext-json": "*",
-        "nguyenanhung/mantis-connector": "^1.0",
-        "nguyenanhung/slack": "^1.0",
-        "nguyenanhung/telegram-messenger": "^1.0",
-        "nguyenanhung/microsoft-teams-connector": "^1.0"
+        "nguyenanhung/mantis-connector": "^2.0",
+        "nguyenanhung/slack": "^2.0",
+        "nguyenanhung/telegram-messenger": "^2.0",
+        "nguyenanhung/google-chat-notifier": "^2.0",
+        "nguyenanhung/microsoft-teams-connector": "^2.0"
+    },
+    "require-dev": {
+        "kint-php/kint": ">=3.0"
     },
     "autoload": {
         "psr-4": {

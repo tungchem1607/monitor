@@ -1,11 +1,14 @@
-[![Latest Stable Version](https://poser.pugx.org/nguyenanhung/monitor/v/stable)](https://packagist.org/packages/nguyenanhung/monitor)
-[![Total Downloads](https://poser.pugx.org/nguyenanhung/monitor/downloads)](https://packagist.org/packages/nguyenanhung/monitor)
-[![Latest Unstable Version](https://poser.pugx.org/nguyenanhung/monitor/v/unstable)](https://packagist.org/packages/nguyenanhung/monitor)
-[![composer.lock](https://poser.pugx.org/nguyenanhung/monitor/composerlock)](https://packagist.org/packages/nguyenanhung/monitor)
-[![License](https://poser.pugx.org/nguyenanhung/monitor/license)](https://packagist.org/packages/nguyenanhung/monitor)
 # Monitor Project
 
+[![Latest Stable Version](http://poser.pugx.org/nguyenanhung/monitor/v)](https://packagist.org/packages/nguyenanhung/monitor) [![Total Downloads](http://poser.pugx.org/nguyenanhung/monitor/downloads)](https://packagist.org/packages/nguyenanhung/monitor) [![Latest Unstable Version](http://poser.pugx.org/nguyenanhung/monitor/v/unstable)](https://packagist.org/packages/nguyenanhung/monitor) [![License](http://poser.pugx.org/nguyenanhung/monitor/license)](https://packagist.org/packages/nguyenanhung/monitor) [![PHP Version Require](http://poser.pugx.org/nguyenanhung/monitor/require/php)](https://packagist.org/packages/nguyenanhung/monitor)
+
+## Version
+
+- [x] V1.x, V2.x support all PHP version `>=5.6`
+- [x] V3.x support all PHP version `>=7.0`
+
 ## Mantis
+
 - [x] Send Bug Information into Mantis BT System
 
 ## Slack
@@ -21,10 +24,16 @@
 - [x] SendDocument via ChatID
 
 ## Microsoft Teams
+
 - [x] Send Message with Simple Card
+
+## Google Chat
+
+- [x] SendMessage via SpaceID
 
 ### Contact
 
-| STT  | Họ tên         | SĐT           | Email           | Skype            |
-| ---- | -------------- | ------------- | --------------- | ---------------- |
-| 1    | Hung Nguyen | 033.295.3760 | dev@nguyenanhung.com | nguyenanhung5891 |
+| STT | Name        | Email                | Skype            |
+|-----|-------------|----------------------|------------------|
+| 1   | Hung Nguyen | dev@nguyenanhung.com | nguyenanhung5891 |
+
